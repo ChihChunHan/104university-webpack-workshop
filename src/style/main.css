@@ -1,0 +1,7 @@
+body {
+  height: 90vh;
+  background-image: url("./../assets/1019-200x300.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
